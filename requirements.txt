@@ -29,3 +29,5 @@ langchain-groq
 pypdf
 arxiv
 wikipedia
+torchvision
+
