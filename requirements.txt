@@ -30,4 +30,4 @@ pypdf
 arxiv
 wikipedia
 torchvision
-
+ddgs
